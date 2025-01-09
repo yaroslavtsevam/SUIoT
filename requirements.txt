@@ -1,0 +1,10 @@
+pyecharts
+uvicorn
+folium
+pandas
+polars
+keplergl
+paho-mqtt
+frost-sta-client
+
+
